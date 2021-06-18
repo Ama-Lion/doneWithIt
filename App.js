@@ -3,9 +3,16 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
+  const data = [
+    {
+      me: "hello",
+      you: "i love you"
+    }
+  ]
+  console.log(data)
   return (
     <View style={styles.container}>
-      <Text>Hello Dones with it folks</Text>
+      <Text>yey!!!!</Text>
       <StatusBar style="auto" />
     </View>
   );
