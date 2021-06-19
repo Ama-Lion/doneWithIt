@@ -5,7 +5,7 @@ import AppButton from "../components/AppButton";
 function WelcomeScreen(props) {
   return (
     <ImageBackground
-      blurRadius={10}
+      // blurRadius={0}
       style={styles.background}
       source={require("../assets/background.jpg")}
     >
