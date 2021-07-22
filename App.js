@@ -11,14 +11,14 @@ import WelcomeScreen from "./app/screens/WelcomeScreen";
 export default function App() {
   return (
     <div>
-      {/* <AccountScreen /> */}
-      {/*
-      <ListingEditScreen />
-      <ListingsScreen />
-      <LoginScreen />
-      <MessagesScreen />
-      <ViewImageScreen />
-      <WelcomeScreen /> */}
+      <AccountScreen />
+      
+      {/* <ListingEditScreen /> */}
+      {/* <ListingsScreen /> */}
+      {/* <LoginScreen /> */}
+      {/* <MessagesScreen /> */}
+      {/* <ViewImageScreen /> */}
+      {/* <WelcomeScreen /> */}
     </div>
-  );
+  )
 }
